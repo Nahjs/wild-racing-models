@@ -7,7 +7,7 @@ This repository contains 3D models for the Wild Racing game.
 Access models via jsDelivr CDN:
 
 ```
-https://cdn.jsdelivr.net/gh/Nahjs/wild-racing-models@main/models/lamborghini/[model-name].glb
+https://cdn.jsdelivr.net/gh/Nahjs/wild-racing-models@master/models/lamborghini/[model-name].glb
 ```
 
 ## Models List
